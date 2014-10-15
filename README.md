@@ -1,4 +1,6 @@
-To-Do-List
+Core-Team_Meetings
 ==========
 
-All items need to be done!
+Documents and other important things to organize core-team meetings.
+Each file is concerned with a specific meeting and date.
+
